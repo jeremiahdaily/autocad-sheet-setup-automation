@@ -3,8 +3,6 @@
 ;;; Author: Jeremiah Daily
 ;;; Personal portfolio utility.
 ;;; Generic AutoCAD productivity tool.
-;;; No employer files, client data, proprietary standards, confidential drawings,
-;;; internal file paths, or company-specific project information included.
 ;;; Public commands: CENTERVP
 ;;; Notes: Select a closed rectangular LWPOLYLINE on DEFPOINTS in model space, then select the viewport to center.
 
