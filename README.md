@@ -13,4 +13,4 @@ Small AutoLISP utilities for speeding up sheet setup and viewport workflows in A
 ## Notes
 
 - `tbupdate_clean.lsp` stores the selected title-block path in the system TEMP folder.
-- The scripts are written to avoid embedding personal file paths or company-specific locations.
+- The scripts are written to avoid embedding personal file paths or user-specific locations.
