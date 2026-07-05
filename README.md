@@ -58,7 +58,10 @@ MTX
 
 - `titleblock-xref-update.lsp` stores the selected title-block path in the system TEMP folder.
 - The tools are designed as general productivity utilities and may need adjustment for different CAD standards or office workflows.
-- The files use intentional public-facing names instead of temporary cleanup names.
+
+## Status
+
+This repository is an active personal portfolio project. Additional AutoLISP utilities, documentation, screenshots, and example workflows may be added over time.
 
 ## Disclaimer
 
