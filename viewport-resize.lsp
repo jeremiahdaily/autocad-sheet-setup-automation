@@ -3,8 +3,6 @@
 ;;; Author: Jeremiah Daily
 ;;; Personal portfolio utility.
 ;;; Generic AutoCAD productivity tool.
-;;; No employer files, client data, proprietary standards, confidential drawings,
-;;; internal file paths, or company-specific project information included.
 ;;; Public commands: RESIZEVP
 ;;; Notes: Select a viewport, then draw a new paper-space rectangle to define the viewport boundary.
 
