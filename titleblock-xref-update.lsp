@@ -3,8 +3,6 @@
 ;;; Author: Jeremiah Daily
 ;;; Personal portfolio utility.
 ;;; Generic AutoCAD productivity tool.
-;;; No employer files, client data, proprietary standards, confidential drawings,
-;;; internal file paths, or company-specific project information included.
 ;;; Public commands: SET-TBFILE, LOAD-TB
 ;;; Notes: SET-TBFILE saves the selected title-block DWG path to the TEMP folder.
 ;;; Notes: LOAD-TB re-paths an existing matching XREF or attaches it at 0,0,0.
