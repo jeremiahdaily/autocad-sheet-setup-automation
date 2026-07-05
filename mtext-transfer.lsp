@@ -1,6 +1,10 @@
-;;; mtexttransfer.lsp
+;;; mtext-transfer.lsp
 ;;; Transfer text from one MTEXT object into another MTEXT object and delete the source.
 ;;; Author: Jeremiah Daily
+;;; Personal portfolio utility.
+;;; Generic AutoCAD productivity tool.
+;;; No employer files, client data, proprietary standards, confidential drawings,
+;;; internal file paths, or company-specific project information included.
 ;;; Public commands: MTX
 ;;; Notes: Select the source MTEXT first, then select the destination MTEXT to overwrite.
 
@@ -32,5 +36,5 @@
   (princ)
 )
 
-(princ "\nmtexttransfer loaded. Commands: MTX")
+(princ "\nmtext-transfer loaded. Commands: MTX")
 (princ)

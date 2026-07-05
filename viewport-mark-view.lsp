@@ -1,6 +1,10 @@
-;;; markview.lsp
+;;; viewport-mark-view.lsp
 ;;; Draw a DEFPOINTS rectangle in model space showing the current paper-space viewport view extents.
 ;;; Author: Jeremiah Daily
+;;; Personal portfolio utility.
+;;; Generic AutoCAD productivity tool.
+;;; No employer files, client data, proprietary standards, confidential drawings,
+;;; internal file paths, or company-specific project information included.
 ;;; Public commands: MARKVIEW
 ;;; Notes: Select a paper-space viewport. The command creates a model-space rectangle matching that viewport view.
 
@@ -72,5 +76,5 @@
   (princ)
 )
 
-(princ "\nmarkview loaded. Commands: MARKVIEW")
+(princ "\nviewport-mark-view loaded. Commands: MARKVIEW")
 (princ)

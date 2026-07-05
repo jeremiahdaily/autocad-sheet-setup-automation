@@ -1,6 +1,10 @@
-;;; centervp.lsp
+;;; viewport-center.lsp
 ;;; Center a paper-space viewport on a selected Defpoints rectangle in model space.
 ;;; Author: Jeremiah Daily
+;;; Personal portfolio utility.
+;;; Generic AutoCAD productivity tool.
+;;; No employer files, client data, proprietary standards, confidential drawings,
+;;; internal file paths, or company-specific project information included.
 ;;; Public commands: CENTERVP
 ;;; Notes: Select a closed rectangular LWPOLYLINE on DEFPOINTS in model space, then select the viewport to center.
 
@@ -80,5 +84,5 @@
   (princ)
 )
 
-(princ "\ncentervp loaded. Commands: CENTERVP")
+(princ "\nviewport-center loaded. Commands: CENTERVP")
 (princ)
